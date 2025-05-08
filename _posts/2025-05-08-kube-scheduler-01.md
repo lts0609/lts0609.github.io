@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Scheduler创建流程与调度队列
-description: The First Commit
+title: 调度器篇(一)：Scheduler创建流程与调度队列
+description: Scheduler创建流程与调度队列
 author: self
 date: 2025-05-08 22:30:00 +0800
 categories: Kubernetes
